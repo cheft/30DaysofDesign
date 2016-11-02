@@ -1,6 +1,6 @@
 # 30DaysofDesign
 
-A programmer learning design with my girlfriend.
+A programmer and wife learning design
 
 ## Designs
 
