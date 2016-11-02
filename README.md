@@ -17,6 +17,12 @@ A programmer and wife learning design
 * [sketch-3-design-tutorials](https://webdesignledger.com/sketch-3-design-tutorials/)
 * [makeicons](http://weibo.com/p/10080884be2c4828ddfb0b13124ffc6c830175?k=makeicons&from=501&_from_=huati_topic#_rnd1473754586900)
 
+## Sketch Plugins
+* Craft
+* Icon Font
+* Slicer
+* App Assets Export
+
 ## Images
 ### Todos
 ![Todos](01-Todos/image/preview.png)
