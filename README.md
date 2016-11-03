@@ -46,6 +46,7 @@ A programmer and wife learning design
 ![Daily](06-Daily/image/homepage.png)
 ![Daily](06-Daily/image/detail.png)
 ![Daily](06-Daily/image/menu.png)
+![Daily](06-Daily/image/prototype.gif)
 
 ## License
 
