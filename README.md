@@ -10,6 +10,7 @@ A programmer and wife learning design
 1. Makeicons
 1. Life
 1. Daily
+1. GoodNews
 1. ...
 
 ## Tutorials
@@ -47,6 +48,12 @@ A programmer and wife learning design
 ![Daily](06-Daily/image/detail.png)
 ![Daily](06-Daily/image/menu.png)
 ![Daily](06-Daily/image/prototype.gif)
+
+### GoodNews
+![Daily](06-Daily/image/icon.png)
+![Daily](06-Daily/image/start.png)
+![Daily](06-Daily/image/home.png)
+![Daily](06-Daily/image/detail.png)
 
 ## License
 
