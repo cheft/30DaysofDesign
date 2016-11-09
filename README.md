@@ -50,10 +50,10 @@ A programmer and wife learning design
 ![Daily](06-Daily/image/prototype.gif)
 
 ### GoodNews
-![Daily](06-Daily/image/icon.png)
-![Daily](06-Daily/image/start.png)
-![Daily](06-Daily/image/home.png)
-![Daily](06-Daily/image/detail.png)
+![GoodNews](07-GoodNews/image/icon.png)
+![GoodNews](07-GoodNews/image/start.png)
+![GoodNews](07-GoodNews/image/home.png)
+![GoodNews](07-GoodNews/image/detail.png)
 
 ## License
 
